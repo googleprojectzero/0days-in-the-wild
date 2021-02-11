@@ -30,8 +30,7 @@
 
 **Exploit sample:**
 
-**Access to the exploit sample?** *(Did you have access to the exploit sample when doing the analysis?)*
-
+**Did you have access to the exploit sample when doing the analysis?)**
 
 ## The Vulnerability
 
