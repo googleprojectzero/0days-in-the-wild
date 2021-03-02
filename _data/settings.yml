@@ -1,0 +1,12 @@
+menu:
+- {name: 'Root Cause Analyses', folder: 'pages', file: 'rcas.html'}
+- {name: 'Tracking Sheet', folder: 'pages', file: 'tracking.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+
+social:
+- {icon: 'fab fa-blogger', link: 'https://googleprojectzero.blogspot.com/'}
+- {icon: 'fas fa-bug', link: 'https://bugs.chromium.org/p/project-zero/issues/list'}
+- {icon: 'fab fa-github', link: 'https://github.com/googleprojectzero/0days-in-the-wild'}
+- {icon: 'fas fa-envelope', link: 'mailto:0day-in-the-wild@google.com'}
+- {icon: 'fas fa-rss-square', link:'feed.xml'}
+
