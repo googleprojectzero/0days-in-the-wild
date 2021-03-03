@@ -9,7 +9,7 @@ repository: googleprojectzero/0days-in-the-wild
 theme: minima
 plugins:
   - jekyll-feed
-
+markdown: GFM
 defaults:
 - 
   scope:
