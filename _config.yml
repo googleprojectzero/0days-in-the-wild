@@ -16,3 +16,5 @@ defaults:
           path: "0day-RCAs"
   values:
           category: "rca"
+include: 
+- CONTRIBUTING.md

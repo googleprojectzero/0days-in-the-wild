@@ -1,4 +1,9 @@
-# How to Contribute
+---
+title: Contributing
+permalink: contributing.html
+---
+
+## How to Contribute
 
 We'd love to accept your contributions! The goal is for this repo to be a reference source for the community on 0-days that are exploited in-the-wild. We'd love if others wrote root-cause-analyses, submitted modifications or new links, helped keep data up-to-date, etc! There are
 just a few small guidelines you need to follow if you'd like to contribute.
