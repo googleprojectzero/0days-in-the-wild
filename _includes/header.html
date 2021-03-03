@@ -13,7 +13,7 @@
         </label>
       <div class="trigger">
       {% for item in site.data.settings.menu %}
-        <a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="page-link">{{ item.name }}</a>
+        <a href="{{ item.url }}" class="page-link">{{ item.name }}</a>
       {% endfor %}
 
       {% for item in site.data.settings.social %}
