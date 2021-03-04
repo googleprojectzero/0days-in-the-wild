@@ -1,3 +1,6 @@
+
+# About
+
 This site aims to be a reference repository about 0-day exploits that are
 actively used in-the-wild. Since mid-2019, Project Zero has dedicated an effort
 specifically to track, analyze, and learn from 0-days that are actively
