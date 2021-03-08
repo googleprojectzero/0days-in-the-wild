@@ -13,15 +13,15 @@
         </label>
       <div class="trigger">
       {% for item in site.data.settings.menu %}
-        <a href="{{ item.url }}" class="page-link">{{ item.name }}</a>
+        {% if item.url contains "http" %}
+          <a href="{{ item.url }}" class="page-link">{{ item.name }}</a>
+	{% else %}
+	  <a href="{{ item.url }}" class="page-link">{{ item.name }}</a> 
+	{% endif %}
       {% endfor %}
 
       {% for item in site.data.settings.social %}
-      	{% if item.url contains "http" %}
-      	  <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="{{ item.icon }}"></i></a>
-	{% else %}
-  	  <a href="{{ site.url }}{{ item.link }}" class="menu-link" target="_blank"><i class="{{ item.icon }}"></i></a>
-	{% endif %}
+      	<a href="{{ item.link }}" class="menu-link" target="_blank"><i class="{{ item.icon }}"></i></a>
       {% endfor %}
       </div>
     </nav>
