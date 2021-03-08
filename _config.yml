@@ -18,7 +18,7 @@ email: 0day-in-the-wild@google.com
 description: Information about 0-days exploited in-the-wild!
 github_username:  googleprojectzero
 repository: googleprojectzero/0days-in-the-wild
-
+url: https://googleprojectzero.github.io/0days-in-the-wild
 # Build settings
 theme: minima
 markdown: GFM

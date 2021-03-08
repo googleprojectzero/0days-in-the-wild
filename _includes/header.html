@@ -17,7 +17,10 @@
       {% endfor %}
 
       {% for item in site.data.settings.social %}
-        <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="{{ item.icon }}"></i></a>
+      	{% if item.url contains "http" %}
+      	  <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="{{ item.icon }}"></i></a>
+	{% else %}
+  	  <a href="{{ site.url }}{{ item.link }}" class="menu-link" target="_blank"><i class="{{ item.icon }}"></i></a>
       {% endfor %}
       </div>
     </nav>
