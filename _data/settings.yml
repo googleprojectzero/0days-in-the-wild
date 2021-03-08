@@ -14,10 +14,10 @@
 
 
 menu:
-- {name: 'Root Cause Analyses', url: 'rca.html'}
+- {name: 'Root Cause Analyses', url: '/rca.html'}
 - {name: 'Tracking Sheet', url: 'https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY'}
-- {name: 'Contributing', url: 'contributing.html'}
-- {name: 'About', url: 'about.html'}
+- {name: 'Contributing', url: '/contributing.html'}
+- {name: 'About', url: '/about.html'}
 
 social:
 - {icon: 'fab fa-blogger', link: 'https://googleprojectzero.blogspot.com/'}
