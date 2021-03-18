@@ -9,7 +9,7 @@ in-the-wild [here](rca.html).
 
 We are hosting this information on Github in the hopes that it will promote
 collaboration. If you'd like to write a new RCA or update/edit existing ones,
-please check out our [CONTRIBUTING](CONTRIBUTING.html) page first. We'd love to
+please check out our [CONTRIBUTING](contributing.html) page first. We'd love to
 have you!
 
 For additions, corrections, questions, or comments, please contact
