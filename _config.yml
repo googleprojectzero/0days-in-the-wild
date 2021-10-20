@@ -26,6 +26,9 @@ markdown: GFM
 titles_from_headings:
   strip_title: true
 
+plugins:
+  - jemoji
+
 defaults:
 - 
   scope:
