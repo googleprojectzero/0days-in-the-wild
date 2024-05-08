@@ -11,7 +11,7 @@ exploited in-the-wild. Since 2014, Project Zero's mission has been to "make
 One of the key aspects of our work has been to perform and publish root cause
 analyses on each 0-day detected in-the-wild. For the last year, they have been
 published on the [Google Project Zero
-blog](googleprojectzero.blogspot.com/p/rca.html), but we found that we wanted a
+blog](https://googleprojectzero.blogspot.com/p/rca.html), but we found that we wanted a
 platform that better supports collaboration, history tracking, and updating. So
 we've migrated here!
 
