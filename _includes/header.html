@@ -16,7 +16,7 @@
         {% if item.url contains "http" %}
           <a href="{{ item.url }}" class="page-link">{{ item.name }}</a>
 	{% else %}
-	  <a href="{{ site.url }}{{ item.url }}" class="page-link">{{ item.name }}</a> 
+	  <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}" class="page-link">{{ item.name }}</a> 
 	{% endif %}
       {% endfor %}
 
